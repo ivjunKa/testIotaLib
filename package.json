@@ -1,0 +1,8 @@
+{
+  "name": "lib_test",
+  "description": "Kleine test met iota.js",
+  "dependencies": {
+    "express": "*",
+    "iota.lib.js": "*"
+  }
+}
